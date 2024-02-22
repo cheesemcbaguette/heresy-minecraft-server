@@ -1,7 +1,15 @@
 version: "3.8"
 
 services:
-  allthemods:
+  prometheus:
+      image: prom/prometheus
+      volumes:
+        - "./prometheus.yml:/etc/prometheus/prometheus.yml"
+      networks:
+        - localprom
+      ports:
+        - 9090:9090
+  heresy-contraptions:
     image: itzg/minecraft-server
     tty: true
     stdin_open: true
@@ -70,3 +78,6 @@ services:
     - ./mods.txt:/extras/mods.txt:ro
 volumes:
     data: {}
+networks:
+  localprom:
+    driver: bridge
