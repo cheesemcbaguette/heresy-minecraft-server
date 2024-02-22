@@ -1,10 +1,2 @@
 data
-
-downloads
-
-mc-data/.*
-mc-data/libraries
-mc-data/*.jar
-mc-data/*.bat
-mc-data/*.sh
-mc-data/*.txt
+.vscode
