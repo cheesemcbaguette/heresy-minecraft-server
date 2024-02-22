@@ -8,7 +8,7 @@ services:
       networks:
         - localprom
       ports:
-        - 9090:9090
+        - 9091:9090
   heresy-contraptions:
     image: itzg/minecraft-server
     tty: true

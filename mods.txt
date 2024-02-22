@@ -1,89 +1,91 @@
 # List of urls to download the mods
-# For curseforge mods, the urls works as follows: https://media.forgecdn.net/files/{project ID}/{file ID}/{filename}
+# For curseforge mods, the urls works as follows: 
+# https://media.forgecdn.net/files/{first 4 digits of file ID}/{next 3 digits of file ID (remove starting 0 digits)}/{filename}
+# file ID can be found when pressing download or in the file details/ curse maven snippet (7 digits number)
 
 # worldedit 7.2.10
-https://media.forgecdn.net/files/225608/3697298/worldedit-mod-7.2.10.jar
+https://media.forgecdn.net/files/3697/298/worldedit-mod-7.2.10.jar
 
 # cc:c bridge 1.5.1
-https://media.forgecdn.net/files/656214/4632360/cccbridge-mc1.18.2-forge-v1.5.1.jar
+https://media.forgecdn.net/files/4632/360/cccbridge-mc1.18.2-forge-v1.5.1.jar
 
 # create big cannons 0.5.3.b
-https://media.forgecdn.net/files/646668/5000111/createbigcannons-forge-1.18.2-0.5.3.b.jar
+https://media.forgecdn.net/files/5000/111/createbigcannons-forge-1.18.2-0.5.3.b.jar
 
 # cc-tweaked 1.101.3
-https://media.forgecdn.net/files/282001/4630521/cc-tweaked-1.18.2-1.101.3.jar
+https://media.forgecdn.net/files/4630/521/cc-tweaked-1.18.2-1.101.3.jar
 
 # create_connected 0.6.1
-https://media.forgecdn.net/files/947914/5056251/create_connected-0.6.1-mc1.18.2-all.jar
+https://media.forgecdn.net/files/5056/251/create_connected-0.6.1-mc1.18.2-all.jar
 
 # create-ender-transmission 2.0.6
-https://media.forgecdn.net/files/737302/4785531/createendertransmission-2.0.6-1.18.2.jar
+https://media.forgecdn.net/files/4785/531/createendertransmission-2.0.6-1.18.2.jar
 
 # create_tweaked_controllers 1.2.2
-https://media.forgecdn.net/files/898849/4765870/create_tweaked_controllers-1.18.2-1.2.2.jar
+https://media.forgecdn.net/files/4765/870/create_tweaked_controllers-1.18.2-1.2.2.jar
 
 # xaeros-world-map 1.37.3
-https://media.forgecdn.net/files/317780/4933747/XaerosWorldMap_1.37.3_Forge_1.18.2.jar
+https://media.forgecdn.net/files/4933/747/XaerosWorldMap_1.37.3_Forge_1.18.2.jar
 
 # additional-guns 0.8.2
-https://media.forgecdn.net/files/501214/4357647/additional-guns-0.8.2-1.18.2.jar
+https://media.forgecdn.net/files/4357/647/additional-guns-0.8.2-1.18.2.jar
 
 # architectury 4.11.93
-https://media.forgecdn.net/files/419699/4521465/architectury-4.11.93-forge.jar
+https://media.forgecdn.net/files/4521/465/architectury-4.11.93-forge.jar
 
 # camera-mod 1.0.6
-https://media.forgecdn.net/files/289310/4625221/camera-1.18.2-1.0.6.jar
+https://media.forgecdn.net/files/4625/221/camera-1.18.2-1.0.6.jar
 
 # create 0.5.1f
-https://media.forgecdn.net/files/328085/4835188/create-1.18.2-0.5.1.f.jar
+https://media.forgecdn.net/files/4835/188/create-1.18.2-0.5.1.f.jar
 
 # create-deco 1.3.3
-https://media.forgecdn.net/files/509285/4554163/createdeco-1.3.3-1.18.2.jar
+https://media.forgecdn.net/files/4554/163/createdeco-1.3.3-1.18.2.jar
 
 # create-alloyed 1.5a
-https://media.forgecdn.net/files/564792/4569023/alloyed-1.18.2-v1.5a.jar
+https://media.forgecdn.net/files/4569/23/alloyed-1.18.2-v1.5a.jar
 
 # create-copies-and-cats 0.0.1
-https://media.forgecdn.net/files/961317/5027642/copiesandcats-1.18.2.jar
+https://media.forgecdn.net/files/5027/642/copiesandcats-1.18.2.jar
 
 # create-diesel-generators 1.2h
-https://media.forgecdn.net/files/869316/5089741/createdieselgenerators-1.18.2-1.2h.jar
+https://media.forgecdn.net/files/5089/741/createdieselgenerators-1.18.2-1.2h.jar
 
 # create-steam-n-rails 1.4.8
-https://media.forgecdn.net/files/688231/4944929/Steam_Rails-1.4.8+forge-mc1.18.2-build.23.jar
+https://mediafilez.forgecdn.net/files/4944/929/Steam_Rails-1.4.8%2Bforge-mc1.18.2-build.23.jar
 
 # creative-core 2.6.17
-https://media.forgecdn.net/files/257814/4629846/CreativeCore_FORGE_v2.6.17_mc1.18.2.jar
+https://media.forgecdn.net/files/4629/846/CreativeCore_FORGE_v2.6.17_mc1.18.2.jar
 
 # eureka 1.4.0-beta.1
-https://media.forgecdn.net/files/654384/4877485/eureka-1.4.0-beta.1.jar
+https://media.forgecdn.net/files/4877/485/eureka-1.4.0-beta.1.jar
 
 # framed-blocks 5.11.5
-https://media.forgecdn.net/files/441647/4567924/FramedBlocks-5.11.5.jar
+https://media.forgecdn.net/files/4567/924/FramedBlocks-5.11.5.jar
 
 # framework 0.4.3
-https://media.forgecdn.net/files/549225/4613856/framework-forge-1.18.2-0.4.3.jar
+https://media.forgecdn.net/files/4613/856/framework-forge-1.18.2-0.4.3.jar
 
 # kotlin-for-forge 3.12.0
-https://media.forgecdn.net/files/351264/4513187/kotlinforforge-3.12.0-all.jar
+https://media.forgecdn.net/files/4513/187/kotlinforforge-3.12.0-all.jar
 
 # mo-guns 1.9.2
-https://media.forgecdn.net/files/530863/4311737/MoGuns-1.9.2-1.18.2.jar
+https://media.forgecdn.net/files/4311/737/MoGuns-1.9.2-1.18.2.jar
 
 # mr-crayfish-gun-mod 1.3.3
-https://media.forgecdn.net/files/289479/4344223/cgm-1.3.3-1.18.2.jar
+https://media.forgecdn.net/files/4344/223/cgm-1.3.3-1.18.2.jar
 
 # player-revive 2.0.13
-https://media.forgecdn.net/files/266890/4074289/PlayerRevive_FORGE_v2.0.13_mc1.18.2.jar
+https://media.forgecdn.net/files/4074/289/PlayerRevive_FORGE_v2.0.13_mc1.18.2.jar
 
 # simple-voice-chat 2.4.32
-https://media.forgecdn.net/files/416089/4961311/voicechat-forge-1.18.2-2.4.32.jar
+https://media.forgecdn.net/files/4961/311/voicechat-forge-1.18.2-2.4.32.jar
 
 # steel-armor-blocks 1.3.0
-https://media.forgecdn.net/files/907369/4799381/steel_armor_blocks_forge_1.18.2_1.3.0.jar
+https://media.forgecdn.net/files/4799/381/steel_armor_blocks_forge_1.18.2_1.3.0.jar
 
 # valkyrien-skies 2.1.1-beta.5
-https://media.forgecdn.net/files/258371/4991985/valkyrienskies-118-2.1.1-beta.5.jar
+https://media.forgecdn.net/files/4991/985/valkyrienskies-118-2.1.1-beta.5.jar
 
 # walkie-talkie 1.2.0
-https://media.forgecdn.net/files/825621/4546333/walkietalkie-forge-1.18.2-1.2.0.jar
+https://media.forgecdn.net/files/4546/333/walkietalkie-forge-1.18.2-1.2.0.jar
