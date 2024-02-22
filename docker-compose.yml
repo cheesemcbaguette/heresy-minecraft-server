@@ -1,0 +1,72 @@
+version: "3.8"
+
+services:
+  allthemods:
+    image: itzg/minecraft-server
+    tty: true
+    stdin_open: true
+    ports:
+      # Default minecraft server port
+      - "25565:25565"
+      # Voice chat port
+      - "24454:24454/udp"
+    environment:
+      EULA: "TRUE"
+      TYPE: "FORGE"
+      FORGE_VERSION: "40.2.10"
+      VERSION: "1.18.2"
+      MEMORY: 10G
+      MAX_MEMORY: 12G
+      SERVER_NAME: "ShitFuck 2 Electric Bungaloo"
+      MOTD: "Sounds gay, I'm in"
+      ICON: "https://cdn.discordapp.com/emojis/959558350532657212.gif"
+
+      TZ: "Europe/Paris"
+      
+      #Delete old logs
+      ENABLE_ROLLING_LOGS: "true"
+
+      #World name
+      LEVEL: "florida"
+      #World type
+      #LEVEL_TYPE: AMPLIFIED
+      
+      #Disable spawn protection
+      SPAWN_PROTECTION: 0
+      #Set default gamemode to creative
+      MODE: creative
+
+      #Get the mods from the txt file
+      MODS_FILE: /extras/mods.txt
+      #Clear old mods
+      REMOVE_OLD_MODS: "true"
+
+      OVERRIDE_WHITELIST: "true"
+      ENABLE_WHITELIST: "true"
+      EXISTING_WHITELIST_FILE: MERGE
+      WHITELIST: |
+        CheeseMcBaguette
+        XeonMations
+
+      EXISTING_OPS_FILE: MERGE
+      OPS: |
+        CheeseMcBaguette
+        XeonMations
+  
+    volumes:
+    # use a named, managed volume for data volume
+    - ./data:/data
+
+    # attach local host directory "mods" in same directory as this compose file
+    # all mods in this directory get copied into /data/mods at startup
+    - ./mods:/mods:ro
+
+    # attach local host directory "config" in same directory as this compose file
+    # all config files in this directory get copied into /data/config at startup
+    - ./config:/config:ro
+
+    # attach the mods.txt file to the /extras/mods.txt path inside /data
+    # mods.txt file get copied into /data/extras/mods.txt at startup
+    - ./mods.txt:/extras/mods.txt:ro
+volumes:
+    data: {}
