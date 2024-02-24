@@ -39,6 +39,7 @@ services:
     image: itzg/minecraft-server
     tty: true
     stdin_open: true
+    restart: always
     ports:
       # Default minecraft server port
       - "25565:25565"
@@ -81,6 +82,9 @@ services:
       WHITELIST: |
         CheeseMcBaguette
         XeonMations
+        Willoguns
+        LukaszL
+        captainatom931
 
       EXISTING_OPS_FILE: MERGE
       OPS: |

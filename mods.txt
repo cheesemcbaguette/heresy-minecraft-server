@@ -18,10 +18,10 @@ https://media.forgecdn.net/files/4630/521/cc-tweaked-1.18.2-1.101.3.jar
 # create_connected 0.6.1
 https://media.forgecdn.net/files/5056/251/create_connected-0.6.1-mc1.18.2-all.jar
 
-# create-ender-transmission 2.0.6
-https://media.forgecdn.net/files/4785/531/createendertransmission-2.0.6-1.18.2.jar
+# create-ender-transmission 2.0.6 (disabled because it caused a crash)
+# https://media.forgecdn.net/files/4785/531/createendertransmission-2.0.6-1.18.2.jar
 
-# create_tweaked_controllers 1.2.2
+# create_tweaked_controllers 1.2.2 
 https://media.forgecdn.net/files/4765/870/create_tweaked_controllers-1.18.2-1.2.2.jar
 
 # create_interactive 1.0.0-beta.3
