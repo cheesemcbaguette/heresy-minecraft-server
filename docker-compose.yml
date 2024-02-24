@@ -61,7 +61,7 @@ services:
       ENABLE_ROLLING_LOGS: "true"
 
       #World name
-      LEVEL: "florida"
+      LEVEL: "smallDesertCity"
       #World type
       #LEVEL_TYPE: AMPLIFIED
       
