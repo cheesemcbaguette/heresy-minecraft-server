@@ -92,3 +92,6 @@ https://media.forgecdn.net/files/4991/985/valkyrienskies-118-2.1.1-beta.5.jar
 
 # walkie-talkie 1.2.0
 https://media.forgecdn.net/files/4546/333/walkietalkie-forge-1.18.2-1.2.0.jar
+
+# create crafts & additions 1.0.0
+https://media.forgecdn.net/files/4683/727/createaddition-1.18.2-1.0.0.jar
