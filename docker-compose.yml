@@ -62,7 +62,7 @@ services:
       ENABLE_ROLLING_LOGS: "true"
 
       #World name
-      LEVEL: "smallDesertCity"
+      LEVEL: "lightHouse"
       #World type
       #LEVEL_TYPE: AMPLIFIED
       
