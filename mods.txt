@@ -95,3 +95,18 @@ https://media.forgecdn.net/files/4546/333/walkietalkie-forge-1.18.2-1.2.0.jar
 
 # create crafts & additions 1.0.0
 https://media.forgecdn.net/files/4683/727/createaddition-1.18.2-1.0.0.jar
+
+# cbcmodernwarfare 0.0.3e_1
+https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/cbcmodernwarfare-forge-1.18.2-0.0.3e_1.jar
+
+# clockwork 0.1.4
+https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/clockwork-1.18.2-0.1.4-forge-df2c1c3e57.jar
+
+# combat gear 1.2.4
+https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/combatgear1.2.4.jar
+
+# tallyho 1.8c
+https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/tallyho-1.8c.jar
+
+# trackwork 0.0.1h1-alpha
+https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/trackwork-1.18.2-0.0.1h1-alpha.jar
