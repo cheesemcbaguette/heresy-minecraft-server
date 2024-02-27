@@ -100,7 +100,7 @@ https://media.forgecdn.net/files/4683/727/createaddition-1.18.2-1.0.0.jar
 https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/cbcmodernwarfare-forge-1.18.2-0.0.3e_1.jar
 
 # clockwork 0.1.6
-https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/clockwork-1.18.2-0.1.6-forge-a468f202e7
+https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/clockwork-1.18.2-0.1.6-forge-a468f202e7.jar
 
 # combat gear 1.2.4
 https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/combatgear1.2.4.jar
