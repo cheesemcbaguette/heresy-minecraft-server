@@ -67,8 +67,9 @@ services:
 
       #World name
       LEVEL: "lightHouse"
-      #World type
-      #LEVEL_TYPE: AMPLIFIED
+
+      #View distance in chunks
+      VIEW_DISTANCE: 20
       
       #Disable spawn protection
       SPAWN_PROTECTION: 0

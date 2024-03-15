@@ -110,3 +110,12 @@ https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/tallyho-1
 
 # trackwork 0.0.1h1-alpha
 https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/trackwork-1.18.2-0.0.1h1-alpha.jar
+
+# chunky 1.2.164
+https://cdn.modrinth.com/data/fALzjamp/versions/1.2.164-forge/Chunky-1.2.164.jar
+
+# starlight 1.0.2-1.18.2
+https://cdn.modrinth.com/data/iRfIGC1s/versions/1.0.2%2B1.18.2/starlight-1.0.2%2Bforge.546ae87.jar
+
+# lightspeed 1.18.2-1.1.0
+https://cdn.modrinth.com/data/US93mifm/versions/loLGVTTD/lightspeed-1.18.2-1.0.5.jar
