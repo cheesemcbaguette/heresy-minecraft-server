@@ -68,7 +68,7 @@ https://cdn.modrinth.com/data/sv2l2OG2/versions/xwa3bln2/ChargedExplosives-1.20.
 https://cdn.modrinth.com/data/onDuQF5e/versions/riXnUJMs/StylishEffects-v8.0.2-1.20.1-Forge.jar
 
 # Immersive Snow 1.3.0
-https://cdn.modrinth.com/data/mQdEVqSA/versions/AQ76koqT/immersivesnow-1.20.1-1.3.0.jar
+# https://cdn.modrinth.com/data/mQdEVqSA/versions/AQ76koqT/immersivesnow-1.20.1-1.3.0.jar
 
 # Companion 5.0.1
 https://cdn.modrinth.com/data/4w0EzGRW/versions/ExeOzSGU/Companion-1.20.1-forge-5.0.1.jar
@@ -480,3 +480,6 @@ https://cdn.modrinth.com/data/4bD9ilIR/versions/DdpXl47z/ForbiddenPotions-1.1.0-
 
 # Noisium 2.0.1
 https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar
+
+# Spark 1.10.53
+https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar
