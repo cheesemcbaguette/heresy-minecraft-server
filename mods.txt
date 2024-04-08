@@ -1,121 +1,479 @@
 # List of urls to download the mods
 # For curseforge mods, the urls works as follows: 
 # https://media.forgecdn.net/files/{first 4 digits of file ID}/{next 3 digits of file ID (remove starting 0 digits)}/{filename}
+# or https://mediafilez.forgecdn.net/files/
 # file ID can be found when pressing download or in the file details/ curse maven snippet (7 digits number)
 
-# worldedit 7.2.10
-https://media.forgecdn.net/files/3697/298/worldedit-mod-7.2.10.jar
+# SuperMartijn642's Core Lib 1.1.17
+https://cdn.modrinth.com/data/rOUBggPv/versions/U92Le4sE/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar
 
-# cc:c bridge 1.5.1
-https://media.forgecdn.net/files/4632/360/cccbridge-mc1.18.2-forge-v1.5.1.jar
+# Ocean's Delight 1.0.2-1.20
+https://cdn.modrinth.com/data/DGiq4ZSW/versions/9jLLNENb/oceansdelight-1.0.2-1.20.jar
 
-# create big cannons 0.5.3.b
-https://media.forgecdn.net/files/5000/111/createbigcannons-forge-1.18.2-0.5.3.b.jar
+# Exposure 1.20.1-1.5.1
+https://cdn.modrinth.com/data/hB899VmG/versions/dGkwVfkj/exposure-1.20.1-1.5.1-forge.jar
 
-# cc-tweaked 1.101.3
-https://media.forgecdn.net/files/4630/521/cc-tweaked-1.18.2-1.101.3.jar
+# AdChimneys 1.20.1-10.1.5.1-build.0365
+https://media.forgecdn.net/files/5188/655/AdChimneys-1.20.1-10.1.5.1-build.0365.jar
 
-# create_connected 0.6.1
-https://media.forgecdn.net/files/5056/251/create_connected-0.6.1-mc1.18.2-all.jar
+# Farmer's Delight 1.20.1-1.2.4
+https://cdn.modrinth.com/data/R2OftAxM/versions/AxgOboGq/FarmersDelight-1.20.1-1.2.4.jar
 
-# create-ender-transmission 2.0.6 (disabled because it caused a crash)
-# https://media.forgecdn.net/files/4785/531/createendertransmission-2.0.6-1.18.2.jar
+# Searchables 1.0.2
+https://cdn.modrinth.com/data/fuuu3xnx/versions/9990I5Tc/Searchables-forge-1.20.1-1.0.2.jar
 
-# create_tweaked_controllers 1.2.2 
-https://media.forgecdn.net/files/4765/870/create_tweaked_controllers-1.18.2-1.2.2.jar
+# Sophisticated Backpacks 1.20.1-3.20.5.1039
+https://media.forgecdn.net/files/5240/479/sophisticatedbackpacks-1.20.1-3.20.5.1039.jar
 
-# create_interactive 1.0.0-beta.3
-https://cdn.modrinth.com/data/MyfCcqiE/versions/kWf1zoZd/create_interactive-118-forge-1.0.0-beta.3.jar
+# MapFrontiers 2.6.0
+https://cdn.modrinth.com/data/hWlsli6y/versions/tLRVidqu/MapFrontiers-1.20.1-2.6.0-forge.jar
 
-# xaeros-world-map 1.37.3
-https://media.forgecdn.net/files/4933/747/XaerosWorldMap_1.37.3_Forge_1.18.2.jar
+# Copycats+ 1.20.1-1.2.6
+https://cdn.modrinth.com/data/UT2M39wf/versions/BYUGDUG0/Copycats-forge.1.20.1-1.2.6.jar
 
-# additional-guns 0.8.2
-https://media.forgecdn.net/files/4357/647/additional-guns-0.8.2-1.18.2.jar
+# Advanced Peripherals 0.7.38r
+https://modrinth.com/mod/advancedperipherals/version/1.20.1-0.7.38r
 
-# architectury 4.11.93
-https://media.forgecdn.net/files/4521/465/architectury-4.11.93-forge.jar
+# Immersive Paintings 0.6.7
+https://mediafilez.forgecdn.net/files/4789/114/immersive_paintings-0.6.7%2B1.20.1-forge.jar
 
-# camera-mod 1.0.6
-https://media.forgecdn.net/files/4625/221/camera-1.18.2-1.0.6.jar
+# Create Jetpack 4.2.1
+https://cdn.modrinth.com/data/UbFnAd4l/versions/r9jMwK81/create_jetpack-forge-4.2.1.jar
 
-# create 0.5.1f
-https://media.forgecdn.net/files/4835/188/create-1.18.2-0.5.1.f.jar
+# Cloth Config API 1.1.118
+https://cdn.modrinth.com/data/9s6osm5g/versions/nr1znv5v/cloth-config-11.1.118-forge.jar
 
-# create-deco 1.3.3
-https://media.forgecdn.net/files/4554/163/createdeco-1.3.3-1.18.2.jar
+# Oreganized 2.0.3
+https://cdn.modrinth.com/data/2FJutzEL/versions/HpU9JGdc/Oreganized_1.20.1-2.0.3.jar
 
-# create-alloyed 1.5a
-https://media.forgecdn.net/files/4569/23/alloyed-1.18.2-v1.5a.jar
+# Ad Extendra 0.1.1
+https://cdn.modrinth.com/data/UOZ8LNHE/versions/PpjgJXb2/ad_extendra-0.1.1.jar
 
-# create-copies-and-cats 0.0.1
-https://media.forgecdn.net/files/5027/642/copiesandcats-1.18.2.jar
+# Truly Modular Archery 1.2
+https://cdn.modrinth.com/data/RXklwn50/versions/InARYEau/Truly-Modular-Archery-1.2-1.20.1-forge.jar
 
-# create-diesel-generators 1.2h
-https://media.forgecdn.net/files/5089/741/createdieselgenerators-1.18.2-1.2h.jar
+# Jade 11.8.0
+https://cdn.modrinth.com/data/nvQzSEkH/versions/akD4smps/Jade-1.20.1-forge-11.8.0.jar
 
-# create-steam-n-rails 1.4.8
-https://mediafilez.forgecdn.net/files/4944/929/Steam_Rails-1.4.8%2Bforge-mc1.18.2-build.23.jar
+# Puzzles Lib 8.0.15
+https://cdn.modrinth.com/data/QAGBst4M/versions/V4g0yKzo/PuzzlesLib-v8.0.15-1.20.1-Forge.jar
 
-# creative-core 2.6.17
-https://media.forgecdn.net/files/4629/846/CreativeCore_FORGE_v2.6.17_mc1.18.2.jar
+# Delightful 3.5.2
+https://cdn.modrinth.com/data/JtSnhtNJ/versions/tbDBi4m9/Delightful-1.20.1-3.5.2.jar
 
-# eureka 1.4.0-beta.1
-https://media.forgecdn.net/files/4877/485/eureka-1.4.0-beta.1.jar
+# Charged Explosives 1.0.0
+https://cdn.modrinth.com/data/sv2l2OG2/versions/xwa3bln2/ChargedExplosives-1.20.1-1.0.0-1.0.0.jar
 
-# framed-blocks 5.11.5
-https://media.forgecdn.net/files/4567/924/FramedBlocks-5.11.5.jar
+# Stylish Effects 8.0.2
+https://cdn.modrinth.com/data/onDuQF5e/versions/riXnUJMs/StylishEffects-v8.0.2-1.20.1-Forge.jar
 
-# framework 0.4.3
-https://media.forgecdn.net/files/4613/856/framework-forge-1.18.2-0.4.3.jar
+# Immersive Snow 1.3.0
+https://cdn.modrinth.com/data/mQdEVqSA/versions/AQ76koqT/immersivesnow-1.20.1-1.3.0.jar
 
-# kotlin-for-forge 3.12.0
-https://media.forgecdn.net/files/4513/187/kotlinforforge-3.12.0-all.jar
+# Companion 5.0.1
+https://cdn.modrinth.com/data/4w0EzGRW/versions/ExeOzSGU/Companion-1.20.1-forge-5.0.1.jar
 
-# mo-guns 1.9.2
-https://media.forgecdn.net/files/4311/737/MoGuns-1.9.2-1.18.2.jar
+# Curios API 5.7.2+1.20.1
+https://cdn.modrinth.com/data/vvuO3ImH/versions/L0Tw2xgL/curios-forge-5.7.2%2B1.20.1.jar
 
-# mr-crayfish-gun-mod 1.3.3
-https://media.forgecdn.net/files/4344/223/cgm-1.3.3-1.18.2.jar
+# Create 0.5.1.f
+https://cdn.modrinth.com/data/LNytGWDc/versions/HNYrbfZZ/create-1.20.1-0.5.1.f.jar
 
-# player-revive 2.0.13
-https://media.forgecdn.net/files/4074/289/PlayerRevive_FORGE_v2.0.13_mc1.18.2.jar
+# Salt 1.2.4
+https://cdn.modrinth.com/data/CrDd9QcD/versions/pW7wylgj/salt-1.20.1-1.2.4.jar
 
-# simple-voice-chat 2.4.32
-https://media.forgecdn.net/files/4961/311/voicechat-forge-1.18.2-2.4.32.jar
+# Blueprint 7.0.3
+https://cdn.modrinth.com/data/VsM5EDoI/versions/l3Z9H5ed/blueprint-1.20.1-7.0.3.jar
 
-# steel-armor-blocks 1.3.0
-https://media.forgecdn.net/files/4799/381/steel_armor_blocks_forge_1.18.2_1.3.0.jar
+# Macaw's Trapdoors 1.1.2
+https://mediafilez.forgecdn.net/files/4841/553/mcw-trapdoors-1.1.2-mc1.20.1forge.jar
 
-# valkyrien-skies 2.1.1-beta.5
-https://media.forgecdn.net/files/4991/985/valkyrienskies-118-2.1.1-beta.5.jar
+# Embeddium++ 1.2.5
+https://cdn.modrinth.com/data/yD9qW65f/versions/2Lih5fsH/embeddiumplus-1.20.1-v1.2.5.jar
 
-# walkie-talkie 1.2.0
-https://media.forgecdn.net/files/4546/333/walkietalkie-forge-1.18.2-1.2.0.jar
+# GeckoLib 4 4.4.2
+https://cdn.modrinth.com/data/8BmcQJ2H/versions/pyB0jIsx/geckolib-forge-1.20.1-4.4.2.jar
 
-# create crafts & additions 1.0.0
-https://media.forgecdn.net/files/4683/727/createaddition-1.18.2-1.0.0.jar
+# Ad Astra 1.15.18
+https://cdn.modrinth.com/data/3ufwT9JF/versions/WUGYX9Me/ad_astra-forge-1.20.1-1.15.18.jar
 
-# cbcmodernwarfare 0.0.3e_1
-https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/cbcmodernwarfare-forge-1.18.2-0.0.3e_1.jar
+# Create Track Map 1.4
+https://cdn.modrinth.com/data/gxoNIjg6/versions/wAEMENRX/create-track-map-1.4%2Bmc1.20.1-neoforge.jar
 
-# clockwork 0.1.6
-https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/clockwork-1.18.2-0.1.6-forge-a468f202e7.jar
+# Notes 1.3.0
+https://mediafilez.forgecdn.net/files/4593/460/Notes-1.20.1-1.3.0-forge.jar
 
-# combat gear 1.2.4
-https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/combatgear1.2.4.jar
+# Redstone Pen 1.3.29
+https://cdn.modrinth.com/data/DwE83ioX/versions/dBxrqaAH/redstonepen-1.20.1-neoforge-1.3.29.jar
 
-# tallyho 1.8c
-https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/tallyho-1.8c.jar
+# Patchouli 1.20.1-84
+https://cdn.modrinth.com/data/nU0bVIaL/versions/JMtc0mTS/Patchouli-1.20.1-84-FORGE.jar
 
-# trackwork 0.0.1h1-alpha
-https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/trackwork-1.18.2-0.0.1h1-alpha.jar
+# Just Enough Items 15.3.0.4
+https://cdn.modrinth.com/data/u6dRKJwZ/versions/PeYsGsQy/jei-1.20.1-forge-15.3.0.4.jar
 
-# chunky 1.2.164
-https://cdn.modrinth.com/data/fALzjamp/versions/1.2.164-forge/Chunky-1.2.164.jar
+# Craftable Armor Trims 1.0.2
+https://cdn.modrinth.com/data/pjifrKcV/versions/ziilK0Ac/craftable-armor-trims-1.0.2.jar
 
-# starlight 1.0.2-1.18.2
-https://cdn.modrinth.com/data/iRfIGC1s/versions/1.0.2%2B1.18.2/starlight-1.0.2%2Bforge.546ae87.jar
+# Immersive Weathering 2.0.1
+https://cdn.modrinth.com/data/jkskOO9i/versions/f3ttCid9/immersive_weathering-1.20.1-2.0.1-forge.jar
 
-# lightspeed 1.18.2-1.1.0
-https://cdn.modrinth.com/data/US93mifm/versions/loLGVTTD/lightspeed-1.18.2-1.0.5.jar
+# Puzzles Lib 8.1.18
+https://cdn.modrinth.com/data/QAGBst4M/versions/1radnytC/PuzzlesLib-v8.1.18-1.20.1-Forge.jar
+
+# CC:C Bridge 1.6.3
+https://cdn.modrinth.com/data/fXt291FO/versions/sPKVzUaW/cccbridge-mc1.20.1-forge-1.6.3.jar
+
+# Visuality Reforged 2.0.2
+https://cdn.modrinth.com/data/z13R7Et1/versions/MyhpSYT4/visuality-forge-2.0.2.jar
+
+# AppleSkin 2.5.1
+https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar
+
+# Controlling 12.0.2
+https://cdn.modrinth.com/data/xv94TkTM/versions/LH6Bi6Am/Controlling-forge-1.20.1-12.0.2.jar
+
+# Create Enchantment Industry 1.2.9.c
+https://cdn.modrinth.com/data/JWGBpFUP/versions/RP7am3NH/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.c.jar
+
+# Sound Physics Remastered 1.3.1
+https://cdn.modrinth.com/data/qyVF9oeo/versions/CmxXa8uE/sound-physics-remastered-forge-1.20.1-1.3.1.jar
+
+# Thirst Was Taken 1.3.5
+https://cdn.modrinth.com/data/iUheEnjm/versions/kghwkpyG/ThirstWasTaken-1.20.1-1.3.5.jar
+
+# Freeze It, and Heat It! 3.1.0
+https://cdn.modrinth.com/data/6jlFKPwR/versions/idkWSKfv/fiahi-3.1.0.jar
+
+# Not Enough Recipe Book 0.3
+https://cdn.modrinth.com/data/bQh7xzFq/versions/hRhjlsGv/nerb-1.20.1-0.3-FORGE.jar
+
+# Journeymap 5.9.20
+https://cdn.modrinth.com/data/lfHFW1mp/versions/KVokx2uA/journeymap-1.20.1-5.9.20-forge.jar
+
+# Alternate Current 1.7.0
+https://cdn.modrinth.com/data/r0v8vy1s/versions/kC6SY4Zp/alternate_current-mc1.20-1.7.0.jar
+
+# Elytra Slot 6.3.0
+https://cdn.modrinth.com/data/mSQF1NpT/versions/Ohftf0Rf/elytraslot-forge-6.3.0%2B1.20.1.jar
+
+# Sophisticated Core 0.6.18.597
+https://mediafilez.forgecdn.net/files/5242/817/sophisticatedcore-1.20.1-0.6.18.597.jar
+
+# Pollution of the Realms 8.1.7.0
+https://mediafilez.forgecdn.net/files/5204/871/AdPother-1.20.1-8.1.7.0-build.0386.jar
+
+# Ad Astra: Giselle Addon 6.5
+https://cdn.modrinth.com/data/XQDxCBVw/versions/4KKWgR4d/Ad-Astra-Giselle-Addon-forge-1.20.1-6.5.jar
+
+# Create Ore Excavation 1.4.3
+https://cdn.modrinth.com/data/ResbpANg/versions/WI7OOfLA/createoreexcavation-1.20-1.4.3.jar
+
+# Serious Player Animations 1.1.1
+https://cdn.modrinth.com/data/Fq4tBIiz/versions/ywhw0Jyb/seriousplayeranimations-1.1.1.jar
+
+# Create: Steam 'n' Rails 1.5.3
+https://cdn.modrinth.com/data/ZzjhlDgM/versions/LLyO2sHq/Steam_Rails-1.5.3%2Bforge-mc1.20.1.jar
+
+# Just Enough Professions (JEP) 3.0.1
+https://cdn.modrinth.com/data/kB56GtWA/versions/ANKVJC3T/JustEnoughProfessions-forge-1.20.1-3.0.1.jar
+
+# Dave's Building Extended 5.0
+https://mediafilez.forgecdn.net/files/4704/560/%5B1.20.1%5Ddavesbuilds.jar
+
+# Just Enough Effects Descriptions 1.20
+https://cdn.modrinth.com/data/EO27GKs1/versions/rONG0iY3/jeed-1.20-2.1.12.jar
+
+# Truly Modular: Armory 1.6
+https://cdn.modrinth.com/data/6mUV27DN/versions/nvsPqFQr/Truly-Modular-armory-forge-1.6-1.20.1.jar
+
+# Crate Delight 1.0.8
+https://cdn.modrinth.com/data/9rlXSyLg/versions/FibOTjOd/cratedelight-1.0.8-1.20.1-forge.jar
+
+# Smidgeon O' Bliss 1.20.1 Port/Patch 1.3.1
+https://mediafilez.forgecdn.net/files/4809/859/SmidgeonOBliss-1.20.1-1.3.1.jar
+
+# Create: Trimmed 1.0
+https://cdn.modrinth.com/data/zvaHXgQz/versions/Uwi3mNBj/create_trimmed.jar
+
+# Create Crafts & Additions 1.2.2
+https://cdn.modrinth.com/data/kU1G12Nn/versions/GsWhwScL/createaddition-1.20.1-1.2.2.jar
+
+# Bartering Station 8.0.0
+https://cdn.modrinth.com/data/EOig9U0j/versions/4op6LZEK/BarteringStation-v8.0.0-1.20.1-Forge.jar
+
+# More Red x CC:Tweaked Compat 1.20.1-1.0.0
+https://mediafilez.forgecdn.net/files/4650/653/MoreRed-CCT-Compat-1.20.1-1.0.0.jar
+
+# BOP Create Mod Rose Quartz 1.0.0
+https://mediafilez.forgecdn.net/files/5084/910/bop_create_mod_rose_quartz-1.0.0.jar
+
+# Biomes O' Plenty 18.0.0.598
+https://cdn.modrinth.com/data/HXF82T3G/versions/peO5lWzX/BiomesOPlenty-1.20.1-18.0.0.598.jar
+
+# More Delight 1.0.2
+https://cdn.modrinth.com/data/znHQQtuU/versions/SufCqJ8l/moredelight-1.0.2-1.20.1-forge.jar
+
+# Storage Drawers 12.0.3
+https://mediafilez.forgecdn.net/files/5152/196/storagedrawers-1.20.1-12.0.3.jar
+
+# Kotlin for Forge 
+https://cdn.modrinth.com/data/ordsPcFz/versions/9j6YaPp2/kotlinforforge-4.10.0-all.jar
+
+# Harvest with ease 8.0.1.0
+https://cdn.modrinth.com/data/W4Ajthd2/versions/baUnV6Yc/harvestwithease-1.20.1-8.0.1.0-forge.jar
+
+# Architectury 9.2.14
+https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar
+
+# Create Deco 2.0.1-1.20.1-forge
+https://cdn.modrinth.com/data/sMvUb4Rb/versions/EcZilZTT/createdeco-2.0.1-1.20.1-forge.jar
+
+# Embeddium 0.3.12+mc1.20.1 
+https://cdn.modrinth.com/data/sk9rgfiA/versions/aVRvM7I7/embeddium-0.3.12%2Bmc1.20.1.jar
+
+# ModernFix   5.15.0
+https://cdn.modrinth.com/data/nmDcB62a/versions/u1FOqNCn/modernfix-forge-5.15.0%2Bmc1.20.1.jar
+
+# Arsenal 1.7
+https://cdn.modrinth.com/data/V4LaId7f/versions/50dbrrxv/Truly-Modular-arsenal-forge-1.7-1.20.1.jar
+
+# Extended Cogwheels   2.1.1-1.20.1-0.5.1.f-forge
+https://cdn.modrinth.com/data/qO4lsa4Y/versions/ujnQ2zz6/extendedgears-2.1.1-1.20.1-0.5.1.f-forge.jar
+
+# Create Additions & Synthetics 2.0 
+https://mediafilez.forgecdn.net/files/5227/3/create_additions_synthetics-2.0.jar
+
+# Goat Horn Block Mod   1.20-1.2.2
+https://cdn.modrinth.com/data/IoWlOFbK/versions/WQYttJXC/goathornblock-1.20-1.2.2.jar
+
+# SeasonHUD   1.7.17
+https://cdn.modrinth.com/data/VNjUn3NA/versions/B3Mzn2uP/seasonhud-forge-1.20.1-1.7.17.jar
+
+# Nether's Delight   1.20.1-4.0
+https://cdn.modrinth.com/data/Vv0RM7WN/versions/MTDQhZd2/nethersdelight-1.20.1-4.0.jar
+
+# No Chat Reports   1.20.1-v2.2.2
+https://cdn.modrinth.com/data/qQyHxfxd/versions/ksEG6N5E/NoChatReports-FORGE-1.20.1-v2.2.2.jar
+
+# Botarium   2.3.3
+https://cdn.modrinth.com/data/2u6LRnMa/versions/rkELoRmb/botarium-forge-1.20.1-2.3.3.jar
+
+# Create : The Salt   1.0.0
+https://cdn.modrinth.com/data/OXUFUU4x/versions/cJGpcYoY/create_salt%201.20.1-1.0.0.jar
+
+# Ferrite Core   6.0.1
+https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar
+
+# CC: Tweaked   1.110.1
+https://cdn.modrinth.com/data/gu7yAYhd/versions/KVPU2C6M/cc-tweaked-1.20.1-forge-1.110.1.jar
+
+# Useful Clipboard   1.20.1-0.0.25
+https://mediafilez.forgecdn.net/files/4903/415/usclb-0.0.25.jar
+
+# Pick Up Notifier   8.0.0
+https://mediafilez.forgecdn.net/files/4613/538/PickUpNotifier-v8.0.0-1.20.1-Forge.jar
+
+# Copperative   1.1.0
+https://cdn.modrinth.com/data/f9rb8trZ/versions/ydByddwE/Copperative%201.20.1--1.1.0.jar
+
+# Truly Modular   1.1.14
+https://cdn.modrinth.com/data/c4Uf1TKc/versions/vEpUoksk/Truly-Modular-miapi-forge-1.1.14-1.20.1.jar
+
+# Wormhole (Portals)   1.1.15
+https://cdn.modrinth.com/data/6nHZTTjQ/versions/GLHdCyWJ/wormhole-1.1.15-forge-mc1.20.jar
+
+# Caelus API   3.1.0+1.20
+https://cdn.modrinth.com/data/40FYwb4z/versions/fs9CeXYZ/caelus-forge-3.1.0%2B1.20.jar
+
+# Extreme Reactors   1.20.1-2.0.75
+https://cdn.modrinth.com/data/idkvShUy/versions/5CYl80HP/ExtremeReactors2-1.20.1-2.0.75.jar
+
+# ForgeEndertech   11.1.2.0
+https://mediafilez.forgecdn.net/files/5204/869/ForgeEndertech-1.20.1-11.1.2.0-build.0386.jar
+
+# Create Slice & Dice   3.2.0
+https://cdn.modrinth.com/data/GmjmRQ0A/versions/giM4WleV/sliceanddice-forge-3.2.0.jar
+
+# Player Animator   1.0.2-rc1+1.20
+https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar
+
+# Macaw's Doors   1.1.0
+https://mediafilez.forgecdn.net/files/4649/910/mcw-doors-1.1.0forge-mc1.20.1.jar
+
+# create: things and misc   4.0.0
+https://cdn.modrinth.com/data/uWrs8XlB/versions/c7ob4jVD/create_misc_and_things_%201.20.1_4.0A.jar
+
+# Create : Encased   1.20.1-1.6.0
+https://cdn.modrinth.com/data/hSSqdyU1/versions/m7BIb963/CreateCasing-1.20.1-1.6.0.jar
+
+# Culinary Construct   5.2.1+1.20.1
+https://cdn.modrinth.com/data/i0hioBIg/versions/Ctz6W8tV/culinaryconstruct-forge-5.2.1%2B1.20.1.jar
+
+# Every Compat   1.20-2.6.44
+https://cdn.modrinth.com/data/eiktJyw1/versions/GYiUb1ym/everycomp-1.20-2.6.44.jar
+
+# Quark 4.0-439
+https://cdn.modrinth.com/data/qnQsVE2z/versions/oTVxvQ9o/Quark-4.0-439.jar
+
+# Simple Voice Chat   1.20.1-2.5.11
+https://cdn.modrinth.com/data/9eGKb6K1/versions/iAgX8BlW/voicechat-forge-1.20.1-2.5.11.jar
+
+# Radium   0.12.3+git.50c5c33
+https://cdn.modrinth.com/data/2gvRmQXx/versions/NhMILNAm/radium-mc1.20.1-0.12.3%2Bgit.50c5c33.jar
+
+# Snowy Spirit   1.20-3.0.0
+https://cdn.modrinth.com/data/UiFDlI7w/versions/Njp7DwqO/snowyspirit-1.20-3.0.0.jar
+
+# Builder's Delight   1.3
+https://cdn.modrinth.com/data/CAASGC7r/versions/o5hPmXN6/BuildersDelight-1.20.1-v.1.3.jar
+
+# More Mob Variants   1.2.2
+https://cdn.modrinth.com/data/JiEhJ3WG/versions/VxRA0Nwd/moremobvariants-forge%2B1.20-1.2.2.jar
+
+# Create: Connected   0.7.4-mc1.20.1
+https://cdn.modrinth.com/data/Vg5TIO6d/versions/AZBGh6f2/create_connected-0.7.4-mc1.20.1-all.jar
+
+# Crushed Astra   1.0.1-1.20.1
+https://cdn.modrinth.com/data/9GAv60Rl/versions/ksfdaAmf/crushedastra-1.0.1-1.20.1.jar
+
+# Delightful Blocks    1.0.0
+https://cdn.modrinth.com/data/6GArLUEs/versions/O2eXyDzA/Delightful%20Blocks%20-%201.0.0.jar
+
+# Easy Anvils   8.0.2
+https://mediafilez.forgecdn.net/files/5156/621/EasyAnvils-v8.0.2-1.20.1-Forge.jar
+
+# Boatload   5.0.0
+https://cdn.modrinth.com/data/hevpK888/versions/Rx4R91f3/boatload-1.20.1-5.0.0.jar
+
+# Etched   3.0.1
+https://cdn.modrinth.com/data/zi3Fnfmc/versions/x1BpZwri/etched-3.0.1.jar
+
+# Moonlight Library   1.20-2.11.9
+https://cdn.modrinth.com/data/twkfQtEc/versions/qDW4WXAw/moonlight-1.20-2.11.9-forge.jar
+
+# Visual Workbench   8.0.0
+https://cdn.modrinth.com/data/kfqD1JRw/versions/c22Z4rsv/VisualWorkbench-v8.0.0-1.20.1-Forge.jar
+
+# Framed Compacting Drawers   1.20-6.0.0
+https://mediafilez.forgecdn.net/files/4777/556/framedcompactdrawers-1.20-6.0.0.jar
+
+# Crabber's Delight   1.1.4
+https://cdn.modrinth.com/data/gBGdVBJy/versions/qkKy7TQf/CrabbersDelight-1.20.1-1.1.4.jar
+
+# Trading Post   8.0.2
+https://mediafilez.forgecdn.net/files/5057/539/TradingPost-v8.0.2-1.20.1-Forge.jar
+
+# TexTrue's Embeddium Options   0.1.5+mc1.20.1
+https://cdn.modrinth.com/data/S1tndFDa/versions/r66v9j9a/textrues_embeddium_options-0.1.5%2Bmc1.20.1.jar
+
+# Etcetera 1.20.1-1.1.3
+https://cdn.modrinth.com/data/TaRVOwJr/versions/uua8xPy8/Etcetera-1.20.1-1.1.3-Forge.jar
+
+# Easier Armor Trim Duplication   1.0.0
+https://cdn.modrinth.com/data/WRB8w9m8/versions/qpnSkva1/easierarmortrim-1.0.0-1.20.1.jar
+
+# Thigh highs etc   1.0.4
+https://cdn.modrinth.com/data/6aZTHLYT/versions/Ba4bQ2D7/thigh_highs_etc-forge-1.0.4.jar
+
+# Json Things   0.9.1
+https://mediafilez.forgecdn.net/files/4670/529/JsonThings-1.20.1-0.9.1.jar
+
+# Zeta   1.0-14
+https://cdn.modrinth.com/data/MVARlG2f/versions/v807AcrM/Zeta-1.0-14.jar
+
+# SuperMartijn642's Config Library   1.1.8
+https://cdn.modrinth.com/data/LN9BxssP/versions/ZKor79dR/supermartijn642configlib-1.1.8-forge-mc1.20.jar
+
+# Charm of Undying   6.5.0+1.20.1
+https://cdn.modrinth.com/data/b5GyyYkp/versions/NmSTxeOm/charmofundying-forge-6.5.0%2B1.20.1.jar
+
+# Terraria's Paper Airplanes   1.0.0
+https://cdn.modrinth.com/data/Yay5Bfh3/versions/w4AFUheh/terrarias_paper_airplanes.jar
+
+# Better Combat   1.8.4+1.20.1
+https://cdn.modrinth.com/data/5sy6g3kz/versions/LsvZlcsu/bettercombat-forge-1.8.4%2B1.20.1.jar
+
+# NotEnoughAnimations   1.7.1
+https://cdn.modrinth.com/data/MPCX6s5C/versions/Lp5VGSwZ/notenoughanimations-forge-1.7.1-mc1.20.1.jar
+
+# Create Big Cannons   0.5.3.b-nightly-8a45d8e
+https://cdn.modrinth.com/data/GWp4jCJj/versions/3MQqJhzY/createbigcannons-forge-1.20.1-0.5.3.b.jar
+
+# Joy of Painting   1.20.1-1.0.0 
+https://mediafilez.forgecdn.net/files/4666/42/xercapaint-1.20.1-1.0.0.jar
+
+# Applied Energistics 2   15.1.0 
+https://cdn.modrinth.com/data/XxWD5pD3/versions/WIIZmqs6/appliedenergistics2-forge-15.1.0.jar
+
+# More Red   4.0.0.4
+https://mediafilez.forgecdn.net/files/4691/333/morered-1.20.1-4.0.0.4.jar
+
+# DynamicTrim   1.4.1
+https://cdn.modrinth.com/data/zFCKsjVY/versions/rNuZ2Oey/dynamictrim-1.4.1-forge%2B1.20.1.jar
+
+# Create Diesel Generators   1.20.1-1.2h
+https://cdn.modrinth.com/data/ZM3tt6p1/versions/TkW9mOTh/createdieselgenerators-1.20.1-1.2h.jar
+
+# TerraBlender   3.0.1.4
+https://cdn.modrinth.com/data/kkmrDlKT/versions/htFwnGWu/TerraBlender-forge-1.20.1-3.0.1.4.jar
+
+# Jade Addons   5.2.2
+https://cdn.modrinth.com/data/xuDOzCLy/versions/AdyaTuHw/JadeAddons-1.20.1-forge-5.2.2.jar
+
+# Resourceful Lib   2.1.24
+https://cdn.modrinth.com/data/G1hIVOrD/versions/l4YYn2wS/resourcefullib-forge-1.20.1-2.1.24.jar
+
+# Measurements   2.0.0
+https://cdn.modrinth.com/data/wLINU2AB/versions/EHwSQ3lX/Measurements-forge-1.20.1-2.0.0.jar
+
+# More Minecarts and Rails   1.8.3
+https://mediafilez.forgecdn.net/files/5134/64/moreminecarts-1.8.3.jar
+
+# Block Runner   8.0.4
+https://mediafilez.forgecdn.net/files/5157/20/BlockRunner-v8.0.4-1.20.1-Forge.jar
+
+# AE2WTLib   15.2.3-forge
+https://cdn.modrinth.com/data/pNabrMMw/versions/O1Gg7y6z/ae2wtlib-15.2.3-forge.jar
+
+# Supplementaries   1.20-2.8.10
+https://cdn.modrinth.com/data/fFEIiSDQ/versions/bY4VCxjZ/supplementaries-1.20-2.8.10.jar
+
+# Create: Interiors   0.5.2
+https://cdn.modrinth.com/data/r4Knci2k/versions/WA1plK3v/interiors-0.5.2%2Bmc1.20.1-FORGE.jar
+
+# Cold Sweat   2.2.5.1
+https://cdn.modrinth.com/data/uXhSmPjd/versions/geQCeH1o/ColdSweat-2.2.5.1.jar
+
+# CosmeticArmorReworked   1.20.1-v1a
+https://mediafilez.forgecdn.net/files/4600/191/cosmeticarmorreworked-1.20.1-v1a.jar
+
+# Highlight   2.0.1
+https://cdn.modrinth.com/data/Vz96hXMh/versions/CJKpdSjT/highlight-forge-1.20-2.0.1.jar
+
+# Mouse Tweaks   2.25
+https://cdn.modrinth.com/data/aC3cM3Vq/versions/stb5nE30/MouseTweaks-forge-mc1.20-2.25.jar
+
+# Zero CORE 2   1.20.1-2.1.39
+https://cdn.modrinth.com/data/rHpb85Mf/versions/kR2IVnv0/ZeroCore2-1.20.1-2.1.39.jar
+
+# Resourcefulconfig   2.1.2
+https://cdn.modrinth.com/data/M1953qlQ/versions/irREd1ZJ/resourcefulconfig-forge-1.20.1-2.1.2.jar
+
+# Catalogue   1.8.0 
+https://mediafilez.forgecdn.net/files/4766/90/catalogue-forge-1.20.1-1.8.0.jar
+
+# Create: Framed   1.4.1
+https://cdn.modrinth.com/data/15fFZ3f4/versions/WUZ8cyaX/createframed-1.20.1-1.4.1.jar
+
+# Serene Seasons   9.0.0.46
+https://cdn.modrinth.com/data/e0bNACJD/versions/gvqNV855/SereneSeasons-1.20.1-9.0.0.46.jar
+
+# FramedBlocks   9.2.1 
+https://cdn.modrinth.com/data/wbgfS34j/versions/UpX1WkNE/FramedBlocks-9.2.1.jar
+
+# Clumps   12.0.0.3
+https://cdn.modrinth.com/data/Wnxd13zP/versions/l3neajc5/Clumps-fabric-1.20.1-12.0.0.3.jar
+
+# Forbidden Potions   1.1.0  
+https://cdn.modrinth.com/data/4bD9ilIR/versions/DdpXl47z/ForbiddenPotions-1.1.0-1.20.x-forge.jar
