@@ -74,7 +74,7 @@ services:
       #Disable spawn protection
       SPAWN_PROTECTION: 0
       #Set default gamemode to creative
-      MODE: creative
+      MODE: survival
 
       #Get the mods from the txt file
       MODS_FILE: /extras/mods.txt
