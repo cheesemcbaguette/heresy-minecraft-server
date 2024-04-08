@@ -32,7 +32,7 @@ https://cdn.modrinth.com/data/hWlsli6y/versions/tLRVidqu/MapFrontiers-1.20.1-2.6
 https://cdn.modrinth.com/data/UT2M39wf/versions/BYUGDUG0/Copycats-forge.1.20.1-1.2.6.jar
 
 # Advanced Peripherals 0.7.38r
-https://modrinth.com/mod/advancedperipherals/version/1.20.1-0.7.38r
+https://cdn.modrinth.com/data/SOw6jD6x/versions/ptFMzRpp/AdvancedPeripherals-1.20.1-0.7.38r.jar
 
 # Immersive Paintings 0.6.7
 https://mediafilez.forgecdn.net/files/4789/114/immersive_paintings-0.6.7%2B1.20.1-forge.jar
@@ -477,3 +477,6 @@ https://cdn.modrinth.com/data/Wnxd13zP/versions/l3neajc5/Clumps-fabric-1.20.1-12
 
 # Forbidden Potions   1.1.0  
 https://cdn.modrinth.com/data/4bD9ilIR/versions/DdpXl47z/ForbiddenPotions-1.1.0-1.20.x-forge.jar
+
+# Noisium 2.0.1
+https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar

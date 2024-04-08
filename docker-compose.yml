@@ -66,7 +66,7 @@ services:
       ENABLE_ROLLING_LOGS: "true"
 
       #World name
-      LEVEL: "Abandoned_City"
+      LEVEL: "Ohio"
 
       #View distance in chunks
       VIEW_DISTANCE: 20
