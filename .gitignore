@@ -1,2 +1,6 @@
-data
+# Ignore those folders
+data/*
 .vscode
+
+# But not those
+!data/kubejs
