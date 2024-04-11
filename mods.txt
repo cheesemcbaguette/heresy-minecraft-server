@@ -492,3 +492,10 @@ https://mediafilez.forgecdn.net/files/4944/325/rhino-forge-2001.2.2-build.18.jar
 
 # GraveStone 1.0.15
 https://mediafilez.forgecdn.net/files/5197/326/gravestone-forge-1.20.1-1.0.15.jar
+
+# Energy meter 1.0.0
+https://mediafilez.forgecdn.net/files/4813/550/energymeter-forge-1.20.1-1.0.0.jar
+
+# Config Menu Forge 8.0.2
+https://mediafilez.forgecdn.net/files/4672/356/ForgeConfigScreens-v8.0.2-1.20.1-Forge.jar
+
