@@ -93,6 +93,8 @@ services:
         captainatom931
         Apothikarios
         Josinosle
+        BogdanBlazkowiz
+        vega_D
 
       EXISTING_OPS_FILE: MERGE
       OPS: |
