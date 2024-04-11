@@ -1,0 +1,28 @@
+
+#Miscellaneous
+[common_configuration]
+	#The max explosion depth a user can set in their explosive
+	#Range: 1 ~ 128
+	maxExplosionDepth = 11
+	#The number of warning beeps given after setting an explosive off to detonate. Time is distributed evenly across the value configured in 'detonationCountdownTime'
+	#Range: > 0
+	detonationBeepCount = 5
+	#Controls if a charge's explosion should provide drops. Setting this to true will drop items, false will not
+	explosionsDropItems = true
+	#A percentage (decimal from 0-1) of how much concussive damage should be done by charges. 0 disables concussive damage.
+	#Values greater than 0 will hurt anything in a radius of the blast by an amount (calculated by the explosive's width, depth and height) times this value.
+	#Range: 0.0 ~ 1.0
+	concussiveDamageScale = 0.1
+	#The number of blocks outside of the blast radius that a blast can give concussive damage. Set to 0 to disable extra concussive damage range
+	#Range: 0 ~ 64
+	extraConcussiveDamageRange = 2
+	#The amount of time between activating an explosive and when it detonates, in seconds. Setting to 0 makes it instant
+	#Range: > 0
+	detonationCountdownTime = 5
+	#The max explosion height a user can set in their explosive
+	#Range: 1 ~ 128
+	maxExplosionHeight = 11
+	#The max explosion width a user can set in their explosive
+	#Range: 1 ~ 128
+	maxExplosionWidth = 11
+

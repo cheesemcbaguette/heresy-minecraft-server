@@ -1,0 +1,213 @@
+
+[general]
+	#Puts all the added items into a new Every Compat tab instead of their own mod tabs. Be warned that if disabled it could cause some issue with some mods that have custom tabs
+	creative_tab = true
+	#Makes dynamic assets that are generated depend on loaded resource packs. Turn off to make them just use vanilla assets
+	assets_depend_on_loaded_packs = true
+	#Creates a debug folder inside your instance directory where all the dynamically generated resources will be saved
+	save_debug_resources = false
+	#Sends a packet to verify all dependencies mod versions are the same on connect. DIsable if it causes issues
+	mod_version_check_packet = true
+	#Don't touch unless you are told to
+	debug_packet = false
+
+	[general.tooltips]
+		#Enabled tooltips showing which mod an EC item is from
+		mod_origin_enabled = true
+		#Enabled tooltips showing which block type an EC item is made from
+		block_type_enabled = true
+		#Only show on advanced settings
+		show_on_advanced_tooltips = false
+
+	#Disables certain types
+	[general.types]
+
+		[general.types.leaves_type]
+
+			[general.types.leaves_type.biomesoplenty]
+				origin = true
+				flowering_oak = true
+				maple = true
+				orange_autumn = true
+				yellow_autumn = true
+				rainbow_birch = true
+				snowblossom = true
+				fir = true
+				redwood = true
+				mahogany = true
+				jacaranda = true
+				palm = true
+				willow = true
+				dead = true
+				magic = true
+				umbran = true
+				hellbark = true
+
+			[general.types.leaves_type.quark]
+				ancient = true
+				blue_blossom = true
+				lavender_blossom = true
+				orange_blossom = true
+				yellow_blossom = true
+				red_blossom = true
+
+			[general.types.leaves_type.ad_astra]
+				glacian = true
+
+		[general.types.wood_type]
+
+			[general.types.wood_type.createdieselgenerators]
+				chip_wood = true
+
+			[general.types.wood_type.quark]
+				azalea = true
+				ancient = true
+				blossom = true
+
+			[general.types.wood_type.biomesoplenty]
+				fir = true
+				redwood = true
+				mahogany = true
+				jacaranda = true
+				palm = true
+				willow = true
+				dead = true
+				magic = true
+				umbran = true
+				hellbark = true
+
+			[general.types.wood_type.ad_astra]
+				aeronos = true
+				strophar = true
+				glacian = true
+
+	#Disables specific entries
+	[general.entries]
+
+		[general.entries.leaves_type]
+
+			[general.entries.leaves_type.quark]
+				hedge = true
+				leaf_carpet = true
+
+		[general.entries.wood_type]
+
+			[general.entries.wood_type.buildersdelight]
+				stairs_4 = true
+				stairs_5 = true
+				stairs_6 = true
+				stairs_7 = true
+				stairs_1 = true
+				stairs_2 = true
+				frame_7 = true
+				stairs_3 = true
+				frame_8 = true
+				frame_5 = true
+				frame_6 = true
+				frame_3 = true
+				frame_4 = true
+				frame_1 = true
+				frame_2 = true
+				chair_2 = true
+				chair_1 = true
+				slab_5 = true
+				slab_4 = true
+				slab_7 = true
+				slab_6 = true
+				slab_1 = true
+				slab_3 = true
+				slab_2 = true
+				planks_3 = true
+				planks_4 = true
+				planks_1 = true
+				planks_2 = true
+				planks_7 = true
+				planks_5 = true
+				planks_6 = true
+				table_1 = true
+				table_2 = true
+				glass_8 = true
+				glass_2 = true
+				glass_3 = true
+				glass_1 = true
+				glass_6 = true
+				glass_7 = true
+				glass_4 = true
+				glass_5 = true
+				glass_pane_7 = true
+				glass_pane_8 = true
+				furniture_kit = true
+				glass_pane_5 = true
+				glass_pane_6 = true
+				glass_pane_3 = true
+				glass_pane_4 = true
+				glass_pane_1 = true
+				glass_pane_2 = true
+
+			[general.entries.wood_type.mcwtrpdoors]
+				ranch_trapdoor = true
+				beach_trapdoor = true
+				swamp_trapdoor = true
+				glass_trapdoor = true
+				blossom_trapdoor = true
+				tropical_trapdoor = true
+				cottage_trapdoor = true
+				paper_trapdoor = true
+				bark_trapdoor = true
+				classic_trapdoor = true
+				bamboo_trapdoor = true
+				barn_trapdoor = true
+				four_panel_trapdoor = true
+				barred_trapdoor = true
+				mystic_trapdoor = true
+				barrel_trapdoor = true
+
+			[general.entries.wood_type.mcwdoors]
+				japanese2_door = true
+				tropical_door = true
+				barn_glass_door = true
+				four_panel_door = true
+				beach_door = true
+				waffle_door = true
+				japanese_door = true
+				stable_door = true
+				modern_door = true
+				nether_door = true
+				stable_head_door = true
+				cottage_door = true
+				western_door = true
+				paper_door = true
+				bamboo_door = true
+				swamp_door = true
+				glass_door = true
+				barn_door = true
+				mystic_door = true
+				bark_glass_door = true
+				classic_door = true
+
+			[general.entries.wood_type.quark]
+				vertical_planks = true
+				ladder = true
+				post = true
+				trapped_chest = true
+				chest = true
+				hollow_log = true
+				bookshelf = true
+				stripped_post = true
+
+			[general.entries.wood_type.farmersdelight]
+				cabinet = true
+
+			[general.entries.wood_type.storagedrawers]
+				full_drawers_2 = true
+				full_drawers_4 = true
+				full_drawers_1 = true
+				half_drawers_1 = true
+				half_drawers_4 = true
+				half_drawers_2 = true
+				trim = true
+
+			[general.entries.wood_type.create]
+				window_pane = true
+				window = true
+

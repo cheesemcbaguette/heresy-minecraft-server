@@ -1,0 +1,6 @@
+
+#Client Configuration Settings
+[client_configs]
+	#Enable a red box showing which blocks will be destroyed?
+	enableExplosionPreviewRender = true
+
