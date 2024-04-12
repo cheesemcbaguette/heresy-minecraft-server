@@ -5,6 +5,71 @@
       "name": "CheeseMcBaguette",
       "uniqueId": "5fc04395-7bc4-4d8e-8f90-52f956e6bd3a"
     },
+    "time": 1712859584251,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/SHB1InfejU"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CheeseMcBaguette",
+      "uniqueId": "5fc04395-7bc4-4d8e-8f90-52f956e6bd3a"
+    },
+    "time": 1712854522333,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/svntsC75Ml"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CheeseMcBaguette",
+      "uniqueId": "5fc04395-7bc4-4d8e-8f90-52f956e6bd3a"
+    },
+    "time": 1712853557734,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Jtoo1kdQUS"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CheeseMcBaguette",
+      "uniqueId": "5fc04395-7bc4-4d8e-8f90-52f956e6bd3a"
+    },
+    "time": 1712852626482,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/VGCmGsujf6"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CheeseMcBaguette",
+      "uniqueId": "5fc04395-7bc4-4d8e-8f90-52f956e6bd3a"
+    },
+    "time": 1712851690232,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/TEucauzG89"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CheeseMcBaguette",
+      "uniqueId": "5fc04395-7bc4-4d8e-8f90-52f956e6bd3a"
+    },
     "time": 1712598859904,
     "type": "Profiler",
     "data": {
