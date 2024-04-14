@@ -1,6 +1,8 @@
 # Ignore those folders
 data/*
+data/config/spark/tmp/*
 .vscode
+*.tmp
 
 # But not those
 !data/kubejs

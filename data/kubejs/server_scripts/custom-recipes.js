@@ -22,4 +22,13 @@ ServerEvents.recipes(event => { //listen for the "recipes" server event.
             B: 'minecraft:crafting_table'  //arg 3: the mapping object   
         }
     )
+
+    //remove shit electrum recipe
+    event.remove({ id: 'oreganized:create/mixing/electrum_ingot' })
+
+    // Cook 1 crushed raw uranium into 1 yellorium ingot in a Furnace:
+    event.smelting('bigreactors:yellorium_ingot', 'create:crushed_raw_uranium')
+
+    // Blast 1 crushed raw uranium into 1 yellorium ingot in a Blast Furnace: 
+    event.blasting('bigreactors:yellorium_ingot', 'create:crushed_raw_uranium')
   })

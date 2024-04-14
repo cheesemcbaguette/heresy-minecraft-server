@@ -513,3 +513,21 @@ https://cdn.modrinth.com/data/HhIJW8n1/versions/R0Xo2Jgw/Estrogen-4.2.3%2B1.20.1
 
 # Man of Many Planes 0.03
 https://cdn.modrinth.com/data/9qdTHi0q/versions/df61Nkfn/man_of_many_planes-0.0.3%2B1.20.1-forge.jar
+
+# Longer Login Times 1.0.0
+https://mediafilez.forgecdn.net/files/4594/800/longerlogintimes-1.0.0-forge-mc1.20.jar
+
+# Packet Fixer 1.2.8
+# https://cdn.modrinth.com/data/c7m1mi73/versions/lUcsxCsq/PacketFixer-forge-1.20.1-1.2.8.jar
+
+# Connectivity 5.5
+https://mediafilez.forgecdn.net/files/5181/534/connectivity-1.20.1-5.5.jar
+
+# Cupboard 2.6
+https://mediafilez.forgecdn.net/files/5170/315/cupboard-1.20.1-2.6.jar
+
+# Torchmaster 20.1.5
+https://cdn.modrinth.com/data/Tl8ESrhX/versions/mDKAXTiu/torchmaster-20.1.5.jar
+
+# Iron Chests 5.0.2
+https://cdn.modrinth.com/data/n2de3t2z/versions/BlgpMWjV/ironchests-5.0.2-forge.jar

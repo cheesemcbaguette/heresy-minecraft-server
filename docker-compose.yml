@@ -50,8 +50,6 @@ services:
       # Voice chat port
       - "24454:24454/udp"
     environment:
-      JVM_OPTS: "-Dfml.readTimeout=60"
-
       EULA: "TRUE"
       TYPE: "FORGE"
       FORGE_VERSION: "47.2.0"
@@ -97,6 +95,7 @@ services:
         Josinosle
         BogdanBlazkowiz
         vega_D
+        Drdielan
 
       EXISTING_OPS_FILE: MERGE
       OPS: |
