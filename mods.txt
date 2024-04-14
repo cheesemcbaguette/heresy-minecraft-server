@@ -487,6 +487,9 @@ https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar
 # KubeJS 2001.6.4-build.138
 https://mediafilez.forgecdn.net/files/5120/836/kubejs-forge-2001.6.4-build.138.jar
 
+# KubeJS Create 2001.2.5-build2
+https://cdn.modrinth.com/data/T38eAZQC/versions/hei9cDRa/kubejs-create-forge-2001.2.5-build.2.jar
+
 # Rhino Forge 2001.2.2-build.18
 https://mediafilez.forgecdn.net/files/4944/325/rhino-forge-2001.2.2-build.18.jar
 
@@ -531,3 +534,9 @@ https://cdn.modrinth.com/data/Tl8ESrhX/versions/mDKAXTiu/torchmaster-20.1.5.jar
 
 # Iron Chests 5.0.2
 https://cdn.modrinth.com/data/n2de3t2z/versions/BlgpMWjV/ironchests-5.0.2-forge.jar
+
+# Fairylights 7.0.0
+https://mediafilez.forgecdn.net/files/4961/775/fairylights-7.0.0-1.20.1.jar
+
+# Just Enough Calculation 4.0.4
+https://mediafilez.forgecdn.net/files/5066/675/jecalculation-forge-1.20.1-4.0.4.jar
