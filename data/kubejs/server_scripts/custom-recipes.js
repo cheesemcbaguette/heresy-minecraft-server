@@ -26,9 +26,23 @@ ServerEvents.recipes(event => { //listen for the "recipes" server event.
     //remove shit electrum recipe
     event.remove({ id: 'oreganized:create/mixing/electrum_ingot' })
 
-    // Cook 1 crushed raw uranium into 1 yellorium ingot in a Furnace:
+    // Cook 1 crushed raw uranium into 1 yellorium ingot in a Furnace/Blast Furnace:
     event.smelting('bigreactors:yellorium_ingot', 'create:crushed_raw_uranium')
-
-    // Blast 1 crushed raw uranium into 1 yellorium ingot in a Blast Furnace: 
     event.blasting('bigreactors:yellorium_ingot', 'create:crushed_raw_uranium')
+
+    // Cook 1 copper block into 1 cut copper block in a Furnace/Blast Furnace:
+    event.smelting('minecraft:copper_block', 'minecraft:cut_copper')
+    event.blasting('minecraft:copper_block', 'minecraft:cut_copper')
+
+    // Cook 1 copper brick into 1 cut copper in a Furnace/Blast Furnace:
+    event.smelting('minecraft:cut_copper', 'copperative:copper_bricks')
+    event.blasting('minecraft:cut_copper', 'copperative:copper_bricks')
+
+    // Cook 1 cut lead block into 4 lead ingots in a Furnace/Blast Furnace:
+    event.smelting('4x oreganized:lead_ingot', 'oreganized:cut_lead')
+    event.blasting('4x oreganized:lead_ingot', 'oreganized:cut_lead')
+
+    // Cook 1 lead brick into 1 lead bricks in a Furnace/Blast Furnace:
+    event.smelting('oreganized:cut_lead', 'oreganized:lead_bricks')
+    event.blasting('oreganized:cut_lead', 'oreganized:lead_bricks')
   })
