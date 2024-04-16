@@ -5,6 +5,19 @@
       "name": "CheeseMcBaguette",
       "uniqueId": "5fc04395-7bc4-4d8e-8f90-52f956e6bd3a"
     },
+    "time": 1713215275022,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/YuWPqYDMEs"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CheeseMcBaguette",
+      "uniqueId": "5fc04395-7bc4-4d8e-8f90-52f956e6bd3a"
+    },
     "time": 1712859584251,
     "type": "Profiler",
     "data": {

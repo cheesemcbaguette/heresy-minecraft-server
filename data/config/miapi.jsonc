@@ -17,6 +17,16 @@
             ],
             // Speed of Color Change on enchanting Glint
             "enchanting_glint_speed": 1.0
+        },
+        "shielding_armor": {
+            // If the Health bar is used to offset the Armor Shielding Bar
+            "respect_health": true,
+            // If the Health bar is used to offset the Armor Shielding Bar
+            "respect_armor": true,
+            // the amount of other bars to be offset by
+            "other_offest": 0,
+            // other attributes that if the player has more than 0 will offset the Armor shielding for every 20
+            "other_attributes": []
         }
     },
     "server": {
@@ -62,6 +72,13 @@
             if false it will only block default Enderman,Chorus fruit and Ender Pearls
             */
             "block_all_teleports_effects": true,
+            /*
+            If this is true modular items will fully break.
+            If set to false Modular Item will instead to go into a Broken state
+            In this broken state they cant do anything but repaired.
+            WARNING: some anvil reworking mods break the repairing logic. Please report those issues to us.
+            */
+            "full_break_modular_items": true,
             // Whether a server reload should be automatically forced to fix Forge having buggy class loading
             "forge_reload_mode": true
         }
