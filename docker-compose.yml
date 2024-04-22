@@ -54,8 +54,8 @@ services:
       TYPE: "FORGE"
       FORGE_VERSION: "47.2.0"
       VERSION: "1.20.1"
-      MEMORY: 10G
-      MAX_MEMORY: 12G
+      MEMORY: 18G
+      MAX_MEMORY: 20G
       SERVER_NAME: "ShitFuck 2 Electric Bungaloo"
       MOTD: "Sounds gay, I'm in"
       ICON: "https://cdn.discordapp.com/emojis/959558350532657212.gif"
@@ -96,6 +96,7 @@ services:
         BogdanBlazkowiz
         vega_D
         Drdielan
+        petizero
 
       EXISTING_OPS_FILE: MERGE
       OPS: |
