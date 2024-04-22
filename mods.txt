@@ -49,9 +49,6 @@ https://cdn.modrinth.com/data/2FJutzEL/versions/HpU9JGdc/Oreganized_1.20.1-2.0.3
 # Ad Extendra 0.1.1
 https://cdn.modrinth.com/data/UOZ8LNHE/versions/PpjgJXb2/ad_extendra-0.1.1.jar
 
-# Truly Modular Archery 1.2
-https://cdn.modrinth.com/data/RXklwn50/versions/InARYEau/Truly-Modular-Archery-1.2-1.20.1-forge.jar
-
 # Jade 11.8.0
 https://cdn.modrinth.com/data/nvQzSEkH/versions/akD4smps/Jade-1.20.1-forge-11.8.0.jar
 
@@ -184,9 +181,6 @@ https://mediafilez.forgecdn.net/files/4704/560/%5B1.20.1%5Ddavesbuilds.jar
 # Just Enough Effects Descriptions 1.20
 https://cdn.modrinth.com/data/EO27GKs1/versions/rONG0iY3/jeed-1.20-2.1.12.jar
 
-# Truly Modular: Armory 1.6
-https://cdn.modrinth.com/data/6mUV27DN/versions/nvsPqFQr/Truly-Modular-armory-forge-1.6-1.20.1.jar
-
 # Crate Delight 1.0.8
 https://cdn.modrinth.com/data/9rlXSyLg/versions/FibOTjOd/cratedelight-1.0.8-1.20.1-forge.jar
 
@@ -235,17 +229,11 @@ https://cdn.modrinth.com/data/sk9rgfiA/versions/aVRvM7I7/embeddium-0.3.12%2Bmc1.
 # ModernFix   5.15.0
 https://cdn.modrinth.com/data/nmDcB62a/versions/u1FOqNCn/modernfix-forge-5.15.0%2Bmc1.20.1.jar
 
-# Arsenal 1.7
-https://cdn.modrinth.com/data/V4LaId7f/versions/50dbrrxv/Truly-Modular-arsenal-forge-1.7-1.20.1.jar
-
 # Extended Cogwheels   2.1.1-1.20.1-0.5.1.f-forge
 https://cdn.modrinth.com/data/qO4lsa4Y/versions/ujnQ2zz6/extendedgears-2.1.1-1.20.1-0.5.1.f-forge.jar
 
 # Create Additions & Synthetics 2.0 
 https://mediafilez.forgecdn.net/files/5227/3/create_additions_synthetics-2.0.jar
-
-# Goat Horn Block Mod   1.20-1.2.2
-https://cdn.modrinth.com/data/IoWlOFbK/versions/WQYttJXC/goathornblock-1.20-1.2.2.jar
 
 # SeasonHUD   1.7.17
 https://cdn.modrinth.com/data/VNjUn3NA/versions/B3Mzn2uP/seasonhud-forge-1.20.1-1.7.17.jar
@@ -276,9 +264,6 @@ https://mediafilez.forgecdn.net/files/4613/538/PickUpNotifier-v8.0.0-1.20.1-Forg
 
 # Copperative   1.1.0
 https://cdn.modrinth.com/data/f9rb8trZ/versions/ydByddwE/Copperative%201.20.1--1.1.0.jar
-
-# Truly Modular   1.1.16
-https://cdn.modrinth.com/data/c4Uf1TKc/versions/gbA1MQPc/Truly-Modular-miapi-forge-1.1.16-1.20.1.jar
 
 # Wormhole (Portals)   1.1.15
 https://cdn.modrinth.com/data/6nHZTTjQ/versions/GLHdCyWJ/wormhole-1.1.15-forge-mc1.20.jar
@@ -543,3 +528,27 @@ https://mediafilez.forgecdn.net/files/5066/675/jecalculation-forge-1.20.1-4.0.4.
 
 # Clumps 12.0.0.3
 https://cdn.modrinth.com/data/Wnxd13zP/versions/yQVnODwU/Clumps-forge-1.20.1-12.0.0.3.jar
+
+# Tetra 6.3.0
+https://cdn.modrinth.com/data/YP9DjOvN/versions/lm4Qz4KQ/tetra-1.20.1-6.3.0.jar
+
+# Mutil 6.1.1
+https://cdn.modrinth.com/data/HWHl8Evb/versions/PI1cIWsh/mutil-1.20.1-6.1.1.jar
+
+# Tetracelium 1.2.0
+https://cdn.modrinth.com/data/rTvWs5Jz/versions/jFtEdFmI/tetracelium-1.20.1-1.2.0.jar
+
+# Tetra Extras 0.1.4
+https://cdn.modrinth.com/data/wDvpvvcU/versions/7Ror5ofs/tetraextras-0.1.4-1.20.1.jar
+
+# TetrasDelight 1.20.1-1
+https://cdn.modrinth.com/data/TVhC6ZPD/versions/RMrGkuN3/tetrasdelight-1.20.1-1.jar
+
+# Tetratic combat Expanded 2.7.1
+https://cdn.modrinth.com/data/gKU2sJEW/versions/Dat1u31k/tetratic-combat-expanded-1.20-2.7.1.jar
+
+# Ad Tetra 2.0.0
+https://cdn.modrinth.com/data/YecCeirP/versions/NGkrj0hN/adtetra-2.0.0.jar
+
+# Tetra Niche Materials 1.82
+https://mediafilez.forgecdn.net/files/5108/367/tetranichematerials-1.82-1.20.1.jar
